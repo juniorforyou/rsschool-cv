@@ -23,6 +23,6 @@
                 </div>
 ```
 # 6. Junior
-## (https://github.com/juniorforyou/StressLess.git)
+## (https://github.com/juniorforyou)
 # 7. [Course on udemy](https://www.udemy.com/course/javascript_full/)
 # 8. A2 
