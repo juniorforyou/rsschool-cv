@@ -2,7 +2,7 @@
 # 2. Contacts:
 ## junior_16@mail.ru
 ## juniorforyou#7917
-# 3. I want to programe.
+# 3. I want to programe
 # 4. Skills:
 ## JS
 ## HTML&CSS
