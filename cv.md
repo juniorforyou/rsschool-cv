@@ -24,5 +24,5 @@
 ```
 # 6. Junior
 ## (https://github.com/juniorforyou/StressLess.git)
-# 7. [Course on udemy]([https://www.udemy.com/course/web_developer/](https://www.udemy.com/course/javascript_full/))
+# 7. [Course on udemy](https://www.udemy.com/course/javascript_full/)
 # 8. A2 
