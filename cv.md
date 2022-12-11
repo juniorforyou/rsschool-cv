@@ -7,8 +7,6 @@
 ## JS
 ## HTML&CSS
 ## Git
-## Figma
-## Photoshop
 # 5. Code example
 ``` <div class="waiting_wrapper">
                <div class="waiting_item">
@@ -26,5 +24,5 @@
 ```
 # 6. Junior
 ## (https://github.com/juniorforyou/StressLess.git)
-# 7. [Course on udemy](https://www.udemy.com/course/web_developer/)
+# 7. [Course on udemy]([https://www.udemy.com/course/web_developer/](https://www.udemy.com/course/javascript_full/))
 # 8. A2 
