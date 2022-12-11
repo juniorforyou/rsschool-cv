@@ -22,7 +22,8 @@
                 <div class="waiting_item">
                     <img src="icons/description/optimization.jpg" alt="3" class="waiting_img">
                     <div class="waiting_descr">Вы узнаете, что такое "хорошая индексация", "высокая посещаемость", "стабильный прирост посетителей", "ТОП по запросам" и, что намного важнее, как добиться всех этих показателей!</div>
-                </div>```
+                </div>
+```
 # 6. Junior
 ## (https://github.com/juniorforyou/StressLess.git)
 # 7. [Course on udemy](https://www.udemy.com/course/web_developer/)
