@@ -1,1 +1,1 @@
-(https://juniorforyou.github.io/rsschool-cv/cv)
+https://juniorforyou.github.io/rsschool-cv/
